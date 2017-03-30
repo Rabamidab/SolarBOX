@@ -1,0 +1,19 @@
+.chess-gallery
+    &__item
+        &:nth-child(n)
+            & :nth-child(1)
+                display: block
+                box-sizing: border-box
+                margin-left: auto
+                margin-right: auto
+            & :nth-child(2)
+                display: flex
+                flex-direction: column
+                justify-content: center
+
+@media screen and (min-width: 600px) 
+    .chess-gallery
+        &__item
+            &:nth-child(2n)
+                & :nth-child(1)
+                    order: 2
