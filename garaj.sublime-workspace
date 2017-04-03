@@ -1,0 +1,912 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tea",
+				"_team-members.sass"
+			],
+			[
+				"mr",
+				"mr:a\tmargin-right:auto"
+			],
+			[
+				"h",
+				"h:a\theight:auto"
+			],
+			[
+				"ta",
+				"ta:c\ttext-align:center"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"im",
+				"import\t x from 'x'"
+			],
+			[
+				"d",
+				"d:ib\tdisplay:inline-block"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"ge",
+				"getSum"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"n",
+				"names"
+			],
+			[
+				"da",
+				"data_"
+			],
+			[
+				"get",
+				"getSum"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"m",
+				"menu"
+			],
+			[
+				"men",
+				"menu_descriptor"
+			],
+			[
+				"a",
+				"addClass"
+			],
+			[
+				"pos",
+				"pos:a\tposition:absolute"
+			],
+			[
+				"fw",
+				"fw:n\tfont-weight:normal"
+			],
+			[
+				"fl",
+				"fl:l\tfloat:left"
+			],
+			[
+				"dt",
+				"d:tbc\tdisplay:table-cell"
+			],
+			[
+				"po",
+				"pos:r\tposition:relative"
+			],
+			[
+				"p",
+				"p:4\tpadding:0 0 0 0"
+			],
+			[
+				"bzx",
+				"bxz:bb\tbox-sizing:border-box"
+			],
+			[
+				"c",
+				"c\tcolor"
+			],
+			[
+				"bgz",
+				"bgz:cv\tbackground-size:cover"
+			],
+			[
+				"bgp",
+				"bgp\tbackground-position"
+			],
+			[
+				"bgr",
+				"bgr:n\tbackground-repeat:no-repeat"
+			],
+			[
+				"td",
+				"td:n\ttext-decoration:none"
+			],
+			[
+				"va",
+				"va:m\tvertical-align:middle"
+			],
+			[
+				"mt",
+				"mt\tmargin-top"
+			],
+			[
+				"cl",
+				"cl:b\tclear:both"
+			],
+			[
+				"bd",
+				"bdl\tborder-left"
+			],
+			[
+				"tt",
+				"tt:u\ttext-transform:uppercase"
+			],
+			[
+				"bxs",
+				"bxsh+\tbox-shadow+"
+			],
+			[
+				"bxz",
+				"bxz:bb\tbox-sizing:border-box"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"fsz",
+				"font-size"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"then",
+				"thenOpen"
+			],
+			[
+				"f",
+				"for\tfor (…) {…}"
+			],
+			[
+				"co",
+				"company"
+			],
+			[
+				"ser",
+				"Server"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 11994,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/sass/index.sass",
+			"settings":
+			{
+				"buffer_size": 292,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/rabam/GoogleDrive/Documents/projects/PSDtoHTML/UnicornPSDTemplate/project/index.html",
+			"settings":
+			{
+				"buffer_size": 17206,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/sass/_team-members.sass",
+			"settings":
+			{
+				"buffer_size": 1405,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/sass/_gallery.sass",
+			"settings":
+			{
+				"buffer_size": 574,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/sass/_privelege.sass",
+			"settings":
+			{
+				"buffer_size": 922,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/projects/Garaj",
+		"/C/projects/Garaj/app",
+		"/C/projects/Garaj/app/sass"
+	],
+	"file_history":
+	[
+		"/C/Users/rabam/GoogleDrive/Documents/projects/PSDtoHTML/UnicornPSDTemplate/project/styles/_team-members.sass",
+		"/C/projects/Garaj/node_modules/browser-sync-ui/static/components/footer.html",
+		"/C/projects/Garaj/app/sass/_privelege.sass",
+		"/C/projects/Garaj/app/sass/_grid.sass",
+		"/C/projects/Garaj/app/sass/_fa.sass",
+		"/C/projects/Garaj/app/index.html",
+		"/C/projects/Garaj/proj/style/index.sass",
+		"/C/projects/graphema/app/js/es6/menu.js",
+		"/C/projects/sdfa/rabamidab.github.io/README.md",
+		"/C/projects/graphema/app/sass/_web-page.scss",
+		"/C/projects/graphema/app/sass/_product.scss",
+		"/C/projects/graphema/app/sass/_grid.scss",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/templates/womens.html",
+		"/C/projects/graphema/app/js/all.js",
+		"/C/projects/graphema/app/sass/_header.scss",
+		"/C/projects/graphema/gulpfile.js",
+		"/C/projects/graphema/package.json",
+		"/C/projects/gulpproj/app/css/main.css",
+		"/C/projects/gulpproj/app/sass/test.scss",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/server.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/templates/brands.html",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/templates/product.html",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/templates/mans.html",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/templates/contact.html",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/styles/_basket.scss",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/styles/_footer.scss",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/styles/_social.scss",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/styles/_vars.scss",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/UCOZ/style/_vars.sass",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/styles/_brand.scss",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/styles/_button.scss",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/styles/_product.scss",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/styles/_navbar.scss",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/styles/_grid.scss",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/styles/_header.scss",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/scripts/onep.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/webpack.config.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/UCOZ/scripts/index.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/scripts/app.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/pictures/vans.svg",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/styles/index.css",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/pictures/social.svg",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/pictures/search-icon.svg",
+		"/C/Users/rabam/AppData/Local/Temp/Temp1_project.zip/project/css/style.sass",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/styles/_web-page.scss",
+		"/D/Документы/ГРАФЕМА/project/css/style.sass",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/Garaj/style/_header.sass",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/pictures/logo2.svg",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/GRAPHEMA/pictures/logo1.svg",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/parsers/phantomjs/╨Я╨╡╤А╨╡╨▓╨╛╨╖╨║╨╕ ╨│╤А╤Г╨╖╨╛╨▓ ╤А╨░╨╖╨╗╨╕╤З╨╜╨╛╨│",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/parsers/casp/pars.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/parsers/phantomjs/casperjs.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/parsers/casperjs/server.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/parsers/casperjs/index.js",
+		"/C/Users/rabam/Documents/flexboxgrid-6.3.1/src/css/flexboxgrid.css",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/parsers/phantomjs/quickstart.coffee.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/parsers/phantomjs/pars.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/parsers/phantomjs/casperjs-1.1.4/README.md",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/skbkontur/scripts/city-search.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/skbkontur/index.html",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/UCOZ/style/twitter.css",
+		"/C/Users/rabam/Desktop/example/index.html",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/test_/skbkontur/kladr.json",
+		"/C/Users/rabam/Desktop/example/server.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/PSDtoHTML/UnicornPSDTemplate/project/styles/index.css",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/PSDtoHTML/UnicornPSDTemplate/project/styles/index.sass",
+		"/C/Users/rabam/Documents/phantomjs-2.1.1-windows/examples/netlog.js",
+		"/C/Users/rabam/Documents/phantomjs-2.1.1-windows/examples/netsniff.js",
+		"/C/Users/rabam/Documents/phantomjs-2.1.1-windows/examples/module.js",
+		"/C/Users/rabam/Documents/phantomjs-2.1.1-windows/examples/phantomwebintro.js",
+		"/C/Users/rabam/Documents/phantomjs-2.1.1-windows/examples/arguments.js",
+		"/C/Users/rabam/Pictures/large_v-trans.png",
+		"/C/Users/rabam/Documents/phantomjs-2.1.1-windows/examples/modernizr.js",
+		"/C/Users/rabam/Documents/phantomjs-2.1.1-windows/examples/loadurlwithoutcss.js",
+		"/C/Users/rabam/Documents/phantomjs-2.1.1-windows/examples/echoToFile.js",
+		"/C/Users/rabam/Documents/phantomjs-2.1.1-windows/examples/child_process-examples.js",
+		"/C/Users/rabam/Documents/phantomjs-2.1.1-windows/examples/hello.js",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/parsers/parser.rb",
+		"/D/Документы/Магистратура/2семестр/менеджмент/1.txt",
+		"/D/Документы/Проекты с Коляном/ArtLife2/public/index.html",
+		"/D/Документы/UCOZ/задание1/js/script.js",
+		"/C/openserver/domains/brandshop/styles/site.css",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/PSDtoHTML/GRAPHEMA/project/index.html",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/PSDtoHTML/UnicornPSDTemplate/project/styles/_header.sass",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/PSDtoHTML/GRAPHEMA/project/css/style.sass",
+		"/D/Документы/UCOZ/задание1/index.html",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/PSDtoHTML/Blind_Cupid/project/styles/_header.sass",
+		"/C/Users/rabam/GoogleDrive/Documents/projects/PSDtoHTML/Blind_Cupid/project/styles/index.sass",
+		"/G/8marchGame1/index.html",
+		"/G/8marchGame/index.html",
+		"/C/Users/rabam/Desktop/примеры кода/работа с youtoube api.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"container__col_6",
+			"span",
+			"1",
+			"App",
+			"- ",
+			"\\d\\d мин............",
+			"Просмотр попытки.*",
+			"images",
+			"\\d\\d мин............",
+			"es6",
+			"Просмотр попытки.*",
+			"    \\w* \\w* \\w*\\n",
+			"\\d\\d мин............",
+			"js/es6",
+			"app/fonts",
+			"inputing",
+			"getSum",
+			"section",
+			"data",
+			"console.log",
+			"this.data",
+			"\\d\\d мин............",
+			"Просмотр попытки        ВМО12   Завершено   29 Март 2017.*",
+			"\\d\\d мин............",
+			"Просмотр попытки        ВМО11   Завершено   29 Март 2017 .*",
+			"\\d\\d мин............",
+			"62",
+			"Просмотр попытки        ИТД11   Завершено   29 Март 2017............................",
+			"Просмотр попытки    .*",
+			"console.log",
+			"Просмотр попытки    .*",
+			"\\d{1,2} мин.............",
+			"sp",
+			"\\d{1,2} мин.............",
+			"\\d{1,2} мин............",
+			"Просмотр попытки        АТК21   Завершено   29 Март 2017............................",
+			"\\w* \\w* \\w*\\n",
+			"\\d\\d мин............",
+			"Просмотр попытки        АТК21   Завершено   29 Март 2017 ...........................",
+			"Просмотр попытки    .*",
+			"\\s\\s\\s\\s\\w.*",
+			"Просмотр попытки        ВПР12   Завершено   29 March 2017 ..........................",
+			"Просмотр попытки        ВПР12   Завершено   29 March 2017 .*",
+			"Просмотр попытки        АТК21   Завершено   29 Март 2017............................*",
+			"    .*\\n",
+			"Просмотр попытки        АТК21   Завершено   29 Март 2017............................",
+			"\\n\\w.*",
+			"\\s\\s\\s\\s.*",
+			"\\s\\s\\s\\s.*\\n",
+			"Просмотр попытки        ВКБ12   Завершено   29 Март 2017............................",
+			"Просмотр попытки        ГП12    Завершено   29 Март 2017............................",
+			"\\n\\w.*",
+			"onclick=\"return false\" ",
+			"this.",
+			"sp",
+			"descriptor",
+			"SinglePage",
+			"scripts",
+			"pictures",
+			"\\.sass",
+			"\\w* \\w* \\w* ",
+			"\\d.*",
+			"\\n.*28 Март 2017........",
+			"1",
+			"            <h2 class=\"basket__header\">Shopping Bag</h2>\n            <div class=\"basket__total\">Total: £<span attr=\"sum\"></span></div>\n            <div class=\"basket__item\">\n                <span class=\"basket__image-container\">\n                    <span class=\"basket__image\"></span>\n                </span>\n                <span class=\"basket__item-description\">\n                    Vans Vault 2012 Summer OG Era LX Pack\n                    <span class=\"basket__remove-button\">[Remove]</span>\n                </span>\n\n                <input type=\"number\" class=\"basket__num-of\">\n                <span class=\"basket__item-price\">£54.00</span>\n            </div>\n            <button class=\"basket__button button button__small button_orange\">CHECKOUT</button>",
+			"div",
+			"class",
+			"padding",
+			"social__link",
+			"header",
+			"$type",
+			"$navbar-height",
+			"40px",
+			"class=\"header\"",
+			"СловDCoа",
+			"Слова",
+			"navbar__link",
+			"class=\"navbar__link\"",
+			"element",
+			"grid__col_4",
+			"red",
+			"grid__col",
+			"main",
+			"\\n\\n",
+			"\\n",
+			"Просмотр попытки.*",
+			"\t",
+			"Просмотр попытки\t \tМКИСп12\tЗавершено\t16 Март 2017 ",
+			"Просмотр попытки\t \tМКИСп12\tЗавершено",
+			"Просмотр попытки\t\tМКИСп12\tЗавершено",
+			"Просмотр попытки\t\tМКИСп12\tЗавершено\t16 Март 2017 ",
+			"Неверно0",
+			"Просмотр попытки\t\tМКИСп12\tЗавершено\t16 Март 2017 ",
+			"\tВерно.*",
+			"Просмотр попытки\t \tБТБ12\tЗавершено\t22 Март 2017",
+			"\\n\\t",
+			"Просмотр попытки.*",
+			"Links",
+			"Lin",
+			"\t",
+			"\\n\\w.*",
+			"font",
+			"viewFindedCities",
+			"inputing",
+			"url",
+			"\t",
+			"query"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"es6",
+			"",
+			"img",
+			"",
+			"_Links",
+			"",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7208,
+								7208
+							],
+							[
+								7325,
+								7325
+							],
+							[
+								7673,
+								7673
+							],
+							[
+								7790,
+								7790
+							],
+							[
+								8120,
+								8120
+							],
+							[
+								8237,
+								8237
+							],
+							[
+								8595,
+								8595
+							],
+							[
+								8712,
+								8712
+							],
+							[
+								9059,
+								9059
+							],
+							[
+								9176,
+								9176
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2086.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/sass/index.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/C/Users/rabam/GoogleDrive/Documents/projects/PSDtoHTML/UnicornPSDTemplate/project/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10097,
+								11675
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/sass/_team-members.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								401,
+								401
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/sass/_gallery.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/sass/_privelege.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 922,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								265
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "garaj.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"galler",
+				"app\\sass\\_gallery.sass"
+			],
+			[
+				"priv",
+				"app\\sass\\_privelege.sass"
+			],
+			[
+				"_foo",
+				"app\\sass\\_footer.sass"
+			],
+			[
+				"foter",
+				"node_modules\\browser-sync-ui\\static\\components\\footer.html"
+			],
+			[
+				"prive",
+				"app\\sass\\_privelege.sass"
+			],
+			[
+				"ind",
+				"app\\sass\\index.sass"
+			],
+			[
+				"i",
+				"app\\index.html"
+			],
+			[
+				"hea",
+				"styles\\_header.scss"
+			],
+			[
+				"na",
+				"styles\\_navbar.scss"
+			],
+			[
+				"b",
+				"styles\\_button.scss"
+			],
+			[
+				"so",
+				"styles\\_social.scss"
+			],
+			[
+				"foo",
+				"styles\\_footer.scss"
+			],
+			[
+				"gr",
+				"styles\\_grid.scss"
+			],
+			[
+				"bu",
+				"styles\\_button.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
